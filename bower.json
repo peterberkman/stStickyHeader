@@ -1,6 +1,6 @@
 {
   "name": "st-sticky-header",
-  "version": "1.0.5",
+  "version": "1.0.4",
   "authors": [
     "lorenzofox3 <laurent34azerty@gmail.com>"
   ],
@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "lr-sticky-header": "git://github.com/JesseDahl/lrStickyHeader.git"
+    "lr-sticky-header": "~1.1.0"
   }
 }
