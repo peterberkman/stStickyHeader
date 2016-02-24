@@ -15,6 +15,6 @@
     "tests"
   ],
   "dependencies": {
-    "lr-sticky-header": "~1.1.0"
+    "lr-sticky-header": "git://github.com/JesseDahl/lrStickyHeader.git"
   }
 }
